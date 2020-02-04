@@ -517,7 +517,11 @@ MonoBehaviour:
   xSpeed: 15
   ySpeed: 10
   xClamp: 5
-  yClamp: 3
+  yClamp: 3.5
+  positionPitchFactor: -5
+  controlPitchFactor: -20
+  positionYawFactor: 5
+  controlRollFactor: -20
 --- !u!4 &979488770 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4918699585128270814, guid: 658b335c45a2847449c281056ce9181d,
